@@ -1,0 +1,17 @@
+POST https://localhost:3000/login
+
+{
+    "username": "teste",
+    "password": "123"
+}
+
+###
+
+POST https://api.origamid.online/conta/login
+Accept: application/json
+
+
+{
+    "username": "dog",
+    "password": "dog" 
+}
